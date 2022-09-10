@@ -1,0 +1,13 @@
+{
+  "DiscordName": null,
+  "DiscordNumber": null,
+  "DiscordAppID": null,
+  "DiscordPublicKey": null,
+  "DiscordToken": null,
+  "DiscordGame": null,
+  "TwitchUser": null,
+  "TwitchClientID": null,
+  "TwitchClientSecret": null,
+  "TwitchToken": null,
+  "Prefix": "!"
+}
